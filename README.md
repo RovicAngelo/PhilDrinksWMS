@@ -1,1 +1,1 @@
-### PhilDrinks Iventory Management Sysytem
+### PhilDrinks Inventory Management Sysytem
